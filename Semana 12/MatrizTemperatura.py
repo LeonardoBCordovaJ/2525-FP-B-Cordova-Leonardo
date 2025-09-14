@@ -3,7 +3,7 @@
 # ==========================
 
 # Lista de ciudades
-ciudades = ["Huaquillas", "El Coca", "loja"]
+ciudades = ["Huaquillas", "Loja", "El Coca"]
 
 # Crear una matriz 3D para almacenar datos de temperaturas
 # Primera dimensión: Ciudades (3 ciudades)
